@@ -5,4 +5,4 @@ git branch -M main
 git remote add origin "repo link"
 git config http.postBuffer 524288000
 git config http.lowSpeedTime 600
-git push -u origin master/main
+git push -u origin master
