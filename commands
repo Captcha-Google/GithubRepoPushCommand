@@ -1,8 +1,8 @@
-git init 
-git add .
-git commit -m "Message"
+git init
+git add README.md
+git commit -m "first commit"
 git branch -M main
-git remote add origin "repo link"
 git config http.postBuffer 524288000
 git config http.lowSpeedTime 600
-git push -u origin master
+git remote add origin https://github.com/Captcha-Google/FusionAdminKit.git
+git push -u origin main
