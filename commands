@@ -1,7 +1,8 @@
 git init 
 git add .
 git commit -m "Message"
+git branch -M main
 git remote add origin "repo link"
 git config http.postBuffer 524288000
 git config http.lowSpeedTime 600
-git push -u origin master
+git push -u origin master/main
