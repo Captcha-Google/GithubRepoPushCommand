@@ -6,3 +6,9 @@ git config http.postBuffer 524288000
 git config http.lowSpeedTime 600
 git remote add origin https://github.com/Captcha-Google/FusionAdminKit.git
 git push -u origin main
+
+
+to push changes
+
+git remote add origin https://github.com/Captcha-Google/FusionAdminKit.git
+
